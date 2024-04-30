@@ -10,7 +10,10 @@ The SameToadz smart contract at [0x07e5ce0f8f](https://etherscan.io/address/0x07
 
 |  Network   | Contract Address  |
 |  ----  | ----  | 
-| [Ethereum Goerli](https://goerli.etherscan.io/address/0xb1ecef869cd9382ae17efb07bd813d49832ea6c1#writeContract)  | 0xb1ecef869cd9382ae17efb07bd813d49832ea6c1 | 
+| [Ethereum Sepolia](https://sepolia.etherscan.io/address/0x2f5D812301189cDe962a5da7AB79AB652f58F181#writeContract)  | 0x2f5D812301189cDe962a5da7AB79AB652f58F181 | 
+| [Base Sepolia](https://sepolia.basescan.org/address/0x2f5D812301189cDe962a5da7AB79AB652f58F181#writeContract)  | 0x2f5D812301189cDe962a5da7AB79AB652f58F181 | 
+| [Arbitrum Sepolia](https://sepolia.arbiscan.io/address/0x2f5D812301189cDe962a5da7AB79AB652f58F181#writeContract)  | 0x2f5D812301189cDe962a5da7AB79AB652f58F181 | 
+| [BNB Testnet](https://testnet.bscscan.com/address/0x8c03686cf3F3ed25881032Ff1f6aeF6c52dB3d1E#writeContract)  | 0x8c03686cf3F3ed25881032Ff1f6aeF6c52dB3d1E | 
 
 
 Mint up to 5 TestToadz a time (with a maximum of 40 per account) by clicking Connect to Web3 (select appropriate testnet) on the appropriate EtherScan testnet page listed above, entering a quantity between 1 and 5, enter an amount equal or more than 1 in the mint(...) function, to clicking Write and confirming the transaction.
